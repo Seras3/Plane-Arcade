@@ -1,0 +1,17 @@
+E:\C#\Adi_apps\Incearca_1\Incearca_1\bin\Debug\Form1.resx
+E:\C#\Adi_apps\Incearca_1\Incearca_1\bin\Debug\Form1.cs
+E:\C#\Adi_apps\Incearca_1\Incearca_1\bin\Debug\Form1.Designer.cs
+E:\C#\Adi_apps\Incearca_1\Incearca_1\bin\Debug\Program.cs
+E:\C#\Adi_apps\Incearca_1\Incearca_1\bin\Debug\Incearca_1.exe
+E:\C#\Adi_apps\Incearca_1\Incearca_1\bin\Debug\Incearca_1.pdb
+E:\C#\Adi_apps\Incearca_1\Incearca_1\obj\Debug\ResolveAssemblyReference.cache
+E:\C#\Adi_apps\Incearca_1\Incearca_1\obj\Debug\Incearca_1.Form1.resources
+E:\C#\Adi_apps\Incearca_1\Incearca_1\obj\Debug\Incearca_1.Properties.Resources.resources
+E:\C#\Adi_apps\Incearca_1\Incearca_1\obj\Debug\Incearca_1.csproj.GenerateResource.Cache
+E:\C#\Adi_apps\Incearca_1\Incearca_1\obj\Debug\Incearca_1.exe
+E:\C#\Adi_apps\Incearca_1\Incearca_1\obj\Debug\Incearca_1.pdb
+E:\C#\Adi_apps\Incearca_1\Incearca_1\bin\Debug\Interop.MediaPlayer.dll
+E:\C#\Adi_apps\Incearca_1\Incearca_1\bin\Debug\Interop.WMPLib.dll
+E:\C#\Adi_apps\Incearca_1\Incearca_1\obj\Debug\Interop.MediaPlayer.dll
+E:\C#\Adi_apps\Incearca_1\Incearca_1\obj\Debug\Interop.WMPLib.dll
+E:\C#\Adi_apps\Incearca_1\Incearca_1\obj\Debug\Incearca_1.csproj.ResolveComReference.cache
